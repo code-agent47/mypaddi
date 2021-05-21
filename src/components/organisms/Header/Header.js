@@ -4,6 +4,7 @@ import { connect } from 'react-redux';
 import Img from '../../atoms/Img/Img';
 import Button from '../../atoms/Button/Button';
 import logo from '../../../assets/images/logo.png';
+import "../../../assets/css/font.css";
 
 class Header extends Component{
 
